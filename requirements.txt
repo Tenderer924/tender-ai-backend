@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 pdfplumber
+fpdf
 python-multipart
-requests
+
